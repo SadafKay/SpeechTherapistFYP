@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/scenePLIMain.unity
+    guid: 9c4bc8cebc94f3141bc81d15e9c82f8f
+  - enabled: 1
+    path: Assets/Scenes/sceneWordCategories.unity
+    guid: a8c7bb111a7b3024495f0c8e72d4e094
+  - enabled: 1
+    path: Assets/Scenes/alphabetsLearningActivity/sceneAlphabetCategory.unity
+    guid: 2233a06af7f012843a747db20825ad8f
+  - enabled: 1
+    path: Assets/Scenes/alphabetsLearningActivity/sceneLetter.unity
+    guid: 1a10253ac0c890f4182b2f91b6bf08da
+  - enabled: 1
+    path: Assets/Scenes/alphabetsLearningActivity/sceneLetterK.unity
+    guid: 28ae21369414ac84e840521f35703319
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber01.unity
+    guid: 6860b2cb617079c428da99801132af94
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber02.unity
+    guid: e81e32b465dab1c439529493ce06aeaa
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber03.unity
+    guid: 407a9e0a4ddf88d488435ff09d3d4e67
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber04.unity
+    guid: bb5b90f3f2cd21a41b1efec2c9c1676d
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber05.unity
+    guid: 0f7045d7d477ac24d9eea48c953c7b5b
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber06.unity
+    guid: c5561f05bb026874384128685702919c
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber07.unity
+    guid: 002af312019cf9641b091d4c71e47806
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber08.unity
+    guid: 3892155bc29922a46bdcacb60adf2d74
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber09.unity
+    guid: 41e7b1577193eca48b5bfb5134772b8e
+  - enabled: 1
+    path: Assets/Scenes/numbersLearningActivity/sceneNumber10.unity
+    guid: 418578432e4fa914ca7032b5d71225eb
+  - enabled: 1
+    path: Assets/Scenes/scenesProblemLevelIdentification/scenePLIMain.unity
+    guid: e6ebde24bfa4d3a41837c609d2bb8624
+  - enabled: 1
+    path: Assets/Scenes/scenesProblemLevelIdentification/scenePLIGame.unity
+    guid: 14ff811d9cc1baa41be853b5f45da860
+  - enabled: 1
+    path: Assets/Scenes/sceneGameMain.unity
+    guid: 9444cb8a1bd34824e854d7042f686685
+  - enabled: 1
+    path: Assets/Scenes/sceneGameLevelOptions.unity
+    guid: bc2ba509a974a394e91263030952941f
+  - enabled: 1
+    path: Assets/Scenes/sceneLevel1.unity
+    guid: 7795b9c9c5854624b85cb1b41d78d19f
+  - enabled: 1
+    path: Assets/Scenes/sceneLevel2.unity
+    guid: 1fe12b1b39f5b924e8b600737e268f93
+  - enabled: 1
+    path: Assets/Scenes/sceneProblemOptions.unity
+    guid: f82fb80aadda11745a22a696a74f03d8
+  - enabled: 1
+    path: Assets/Scenes/sceneRectificationOptions.unity
+    guid: f5930c4a8e6417244b38b29a9ee0f39e
+  - enabled: 1
+    path: Assets/Scenes/alphabetsLearningActivity/sceneLetterC.unity
+    guid: 6748489e9042fb54cb4046337d78233e
+  - enabled: 1
+    path: Assets/Scenes/alphabetsLearningActivity/sceneLetterM.unity
+    guid: 4842d19e000bbfa49895dc64f0ac3026
+  - enabled: 1
+    path: Assets/Scenes/animalsLearningActivity/sceneAnimalsLion.unity
+    guid: fd10a7c0243d90b438a95c2e24651aad
+  - enabled: 1
+    path: Assets/Scenes/animalsLearningActivity/sceneBirdsDove.unity
+    guid: 60031c0ddaa5a9146960eb4099d67158
+  - enabled: 1
+    path: Assets/Scenes/animalsLearningActivity/sceneAnimalsPanda.unity
+    guid: 13cdadc24b5e5d34d917a0e20839520e
+  m_configObjects: {}
